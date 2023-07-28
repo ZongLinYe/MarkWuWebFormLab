@@ -17,6 +17,8 @@ namespace MarkWuWebFormLabDay1
         {
             string content = GetJsonContent("https://www.ktec.gov.tw/ktec_api.php?type=json");
             JsonDataDto dto = JsonConvert.DeserializeObject<JsonDataDto>(content);
+            // 設定 JsonData.aspx 的 <span id="message" runat="server"></span>
+            // 控制項的 InnerHtml 屬性可以用來設定 HTML 元素的內容
             message.InnerHtml += "<CAPTION><h1>高雄市政府相關求才資訊發佈</h1></CAPTION>  ";
             message.InnerHtml += "<table><TR><TH>類型</TH><TH>主題</TH><TH>發表日期</TH></TR>";
             int i = 0;
