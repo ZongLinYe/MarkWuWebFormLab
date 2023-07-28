@@ -10,6 +10,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
+            <span>detail.aspx 的內容</span>
         </div>
     </form>
 </body>

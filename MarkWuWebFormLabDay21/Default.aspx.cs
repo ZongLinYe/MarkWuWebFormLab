@@ -11,7 +11,9 @@ namespace MarkWuWebFormLabDay21
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            Response.Write("Response.Redirect方法：");
+            Response.Redirect("Detail.aspx");
+            Response.Write("測試 Redirect");
         }
     }
 }

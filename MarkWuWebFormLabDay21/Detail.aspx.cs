@@ -11,6 +11,7 @@ namespace MarkWuWebFormLabDay21
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+            Response.Write("detail.aspx.cs 的內容");
 
         }
     }
