@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace MarkWuWebFormLabDay21
+namespace MarkWuWebFormLabDay21ResponseRedirect
 {
     public partial class _Default : Page
     {

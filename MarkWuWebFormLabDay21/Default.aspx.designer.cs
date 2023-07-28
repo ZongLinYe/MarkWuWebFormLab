@@ -7,7 +7,7 @@
 // </自動產生>
 //------------------------------------------------------------------------------
 
-namespace MarkWuWebFormLabDay21
+namespace MarkWuWebFormLabDay21ResponseRedirect
 {
 
 

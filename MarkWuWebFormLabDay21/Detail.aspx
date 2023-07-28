@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Detail.aspx.cs" Inherits="MarkWuWebFormLabDay21.Detail" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Detail.aspx.cs" Inherits="MarkWuWebFormLabDay21ResponseRedirect.Detail" %>
 
 <!DOCTYPE html>
 

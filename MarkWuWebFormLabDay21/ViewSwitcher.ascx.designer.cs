@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace MarkWuWebFormLabDay21 {
+namespace MarkWuWebFormLabDay21ResponseRedirect {
     
     
     public partial class ViewSwitcher {

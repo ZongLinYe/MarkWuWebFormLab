@@ -1,1 +1,1 @@
-﻿<%@ Application Codebehind="Global.asax.cs" Inherits="MarkWuWebFormLabDay21.Global" Language="C#" %>
+﻿<%@ Application Codebehind="Global.asax.cs" Inherits="MarkWuWebFormLabDay21ResponseRedirect.Global" Language="C#" %>

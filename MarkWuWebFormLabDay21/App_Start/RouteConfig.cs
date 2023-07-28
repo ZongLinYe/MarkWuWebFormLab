@@ -4,7 +4,7 @@ using System.Web;
 using System.Web.Routing;
 using Microsoft.AspNet.FriendlyUrls;
 
-namespace MarkWuWebFormLabDay21
+namespace MarkWuWebFormLabDay21ResponseRedirect
 {
     public static class RouteConfig
     {
