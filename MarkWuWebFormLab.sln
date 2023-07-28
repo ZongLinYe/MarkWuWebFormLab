@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarkWuWebFormLabDay21Server
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarkWuWebFormLabDay21ServerExecute", "MarkWuWebFormLabDay21ServerExecute\MarkWuWebFormLabDay21ServerExecute.csproj", "{72975BCA-E018-4B02-94C3-A3D175C750AD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarkWuWEbFormLabDay22", "MarkWuWEbFormLabDay22\MarkWuWEbFormLabDay22.csproj", "{72340745-5160-4690-A7AF-BEE42173A5F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{72975BCA-E018-4B02-94C3-A3D175C750AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72975BCA-E018-4B02-94C3-A3D175C750AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72975BCA-E018-4B02-94C3-A3D175C750AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72340745-5160-4690-A7AF-BEE42173A5F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72340745-5160-4690-A7AF-BEE42173A5F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72340745-5160-4690-A7AF-BEE42173A5F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72340745-5160-4690-A7AF-BEE42173A5F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
